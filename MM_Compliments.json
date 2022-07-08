@@ -5,16 +5,43 @@
     "morning" : [
         "Good morning, sunshine!",
         "Who needs coffee when you have your smile?",
-        "Go get 'em, Tiger!"
+        "Go get 'em, Tiger!",
+        "Good morning, handsome!",
+		"Enjoy your day!",
+		"How was your sleep?"
     ],
     "afternoon" : [
         "Hitting your stride!",
         "You are making a difference!",
-        "You're more fun than bubble wrap!"
+        "You're more fun than bubble wrap!",
+        "Hello, beauty!",
+		"You look sexy!",
+		"Looking good today!"
     ],
     "evening" : [
         "You made someone smile today, I know it.",
         "You are making a difference.",
-        "The day was better for your efforts."
-    ]
+        "The day was better for your efforts.",
+        "Wow, you look hot!",
+	    "You look nice!",
+		"Hi, sexy!"
+    ],
+    "....-01-01": [
+		"Happy new year!"
+	],
+    "....-10-31": [
+        "Happy Halloween!"
+	]
+    "....-09-09": [
+        "Happy birthday, Emily!!!"
+	]
+    "....-03-22": [
+        "Happy birthday, Geoffrey!!!"
+	]
+    "....-01-19": [
+        "Happy wedding anniversary!!!"
+	]
+    "....-01-17": [
+        "Happy dating anniversary!!!"
+	]
 }
